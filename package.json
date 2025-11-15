@@ -1,0 +1,8 @@
+{
+  "name": "personalizeai-frontend-stub",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Frontend stub - implement with React separately\" && exit 0"
+  }
+}
